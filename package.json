@@ -1,0 +1,14 @@
+{
+  "name": "listaexercicios",
+  "version": "1.0.0",
+  "description": "Resolução dos exericios passados no curso fullstack MaisPraTi",
+  "main": "exercicios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Douglas R. Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
